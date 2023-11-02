@@ -34,5 +34,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=strale2006&show_icons=true&locale=en&layout=compact" alt="strale2006" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=strale2006&show_icons=true&locale=en" alt="strale2006" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=strale2006&" alt="strale2006" /></p>
