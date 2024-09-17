@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Strahinja</h1>
+<h1 align="center">Hi 👋, I'm Strale</h1>
 <h3 align="center">A passionate fullstack developer from Serbia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/603800/screenshots/4569474/dribbble-code.gif">
 
