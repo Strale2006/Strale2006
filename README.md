@@ -11,13 +11,11 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [strahinjapopovic.netlify.app](strahinjapopovic.netlify.app)
-
 - 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **straleisara@gmail.com**
 
-- ⚡ Fun fact **I am usually seen as a young talent for programming, I started when I was only 14 and I got into programming really deep and really fast.**
+- ⚡ Fun fact **I am usually seen as a great talent for programming, I started when I was only 14 and I got into programming really deep and really fast.yg So far I have made great experiences over the years!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
