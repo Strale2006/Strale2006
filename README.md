@@ -5,11 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=strale2006&label=Profile%20views&color=0e75b6&style=flat" alt="strale2006" /> </p>
 
-<p align="left"> <a href="https://twitter.com/had_official_" target="blank"><img src="https://img.shields.io/twitter/follow/had_official_?logo=twitter&style=for-the-badge" alt="had_official_" /></a> </p>
+- 🔭 I’m currently working on **Mobile Quiz App**
 
-- 🔭 I’m currently working on **Movie streaming platform**
-
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **GoLang**
 
 - 💬 Ask me about **MERN Stack**
 
