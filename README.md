@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **strahinjapopovic06@gmail.com**
 
-- ⚡ Fun fact **I am usually seen as a great talent for programming, I started when I was only 14 and I got into programming really deep and really fast. So far I have made great experiences over the years!**
+- ⚡ Fun fact **I///!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
